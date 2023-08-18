@@ -1,0 +1,4 @@
+ssh-keygen -t rsa -b 4096 -C "[email]" → cria chave ssh
+git config --global user.name "[nome]" → registra o nome do usuário git
+git config --global user.email "[endereco-de-email]" → registra o email do usuário git
+git config --global color.ui auto → Configura o email que você quer ligado as suas transações de commit
