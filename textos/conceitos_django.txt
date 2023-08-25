@@ -1,4 +1,4 @@
-django-admin startproject → cria um projeto django
+django-admin startproject [nome]→ cria um projeto django
 python manege.py startapp [nome] → cria aplicação
 
 a função "path" da biblioteca "django.urls" → cria um endereço para o navegador.
