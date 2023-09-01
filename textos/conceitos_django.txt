@@ -19,3 +19,27 @@ csrg tolken
 crosside request forge
 
 dreequest
+
+Template tags
+	{{}} → exbe uma varíavel do backend no frontend - tag de print
+	{% if [booleano] %} {% endif%} → Usada para criar condições lógicas em seu template para renderizar conteúdo com base em uma expressão condicional.
+		
+	{% if [booleano]%} {% else %} {% endif %} → caso contrario "{% else %}"
+	
+	{% if [booleano]%} {% elif %} {% endif %} → senão "{% elif %}"
+	
+	{% for %} {% endfor %} → usada para criar loop e fazer interações com listas ou dicionarios
+	
+	
+	
+	
+	https://docs.djangoproject.com/pt-br/4.2/ref/templates/builtins/
+	
+	
+	
+	
+Estrutura de pasta
+	projetos
+	aplicações
+	arquivos estaticos (static)
+	templates
