@@ -1,0 +1,2 @@
+https://cs50.harvard.edu/web/2020/weeks/3/
+https://stackoverflow.com/questions/50777849/from-conda-create-requirements-txt-for-pip3

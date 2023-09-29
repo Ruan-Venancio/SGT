@@ -1,0 +1,3 @@
+django-admin startproject [nome]→ cria um projeto django
+python manege.py startapp [nome] → cria aplicação
+conda list -e > requirements.txt

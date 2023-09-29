@@ -1,6 +1,3 @@
-django-admin startproject [nome]→ cria um projeto django
-python manege.py startapp [nome] → cria aplicação
-
 a função "path" da biblioteca "django.urls" → cria um endereço para o navegador.
 
 a função "include" da biblioteca "django.urls" → anexa um arquivo, normalmente em um endereço.
@@ -9,8 +6,6 @@ request → pega a requisição (é usado como argumento numa função que da um
 	já é imbutido no python
 
 Requição → Quando acessamos uma página é enviado uma requisição para o servidor
-
-https://cs50.harvard.edu/web/2020/weeks/3/
 
 
 pip freeze > [nome arquivo] → criar um arquivos com os pacotes do ambiente virtual
